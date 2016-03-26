@@ -18,3 +18,5 @@ As a team we will be collecting data from as many ticket distribution companies 
 # Hypothesis:
 There is an observable ROI (return on investment) pattern for ticket touting.
  
+# Trello:
+https://trello.com/b/CVKNvvZb/roadmap
